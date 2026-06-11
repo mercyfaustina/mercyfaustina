@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi, I'm Mercy Faustina 👋
+PhD in Computer Science (IIITDM Kancheepuram) | 5 Years NLP/AI Research
+
+🔬 I build NLP systems — from novel BERT architectures to RAG pipelines and Agentic AI
+📄 Published in Springer, IEEE, and Taylor & Francis
+🎯 Open to: Research Engineer | Applied Scientist | AI/ML Engineer
+
+**My Stack:** Python · PyTorch · HuggingFace · Langchain · LlamaIndex · FastAPI · Docker
+
+📫 mercy93faustina@gmail.com | [LinkedIn](https://www.linkedin.com/in/mercy-faustina/)
+
